@@ -2,12 +2,6 @@
 <img src="https://github.com/AyushRazz01/Crime-Rate-Predictions./blob/62ddfe98645eea8a37e4f0c172e722de05d6d624/Crime-Rate-Predict%20img.png">
 Crime Rate Predictor is an application that uses machine learning techniques to predict crime rates in 19 Indian metropolitan cities. The goal of this project is to assist law enforcement agencies in understanding crime patterns and allocating resources effectively to reduce crime rates and improve public safety.
 
-
-
-<img width="1920" height="1050" alt="Crime-Rate-Predict img" src="https://github.com/user-attachments/assets/c68c3986-e9b7-4477-a8f8-7a5a42a1ef0e" />
-
-
-
 ## About the Application
 
 Crime rate prediction has become an important tool for law enforcement agencies to help them better understand patterns of crime and anticipate where crime is likely to occur. By predicting future crime trends, law enforcement agencies can better allocate resources to areas that are likely to experience increases in criminal activity. This could lead to a decrease in crime overall, as well as an increase in public safety. Additionally, crime rate prediction can help police departments develop better strategies for responding to crime as it happens.
